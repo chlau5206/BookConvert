@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert", "Convert\Convert.csproj", "{5CAA61CD-44EA-4928-A1E4-ABE7E756C275}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvePub", "ConvePub\ConvePub.csproj", "{4D956C99-68E8-4F6D-9B5B-E5652BB40603}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5CAA61CD-44EA-4928-A1E4-ABE7E756C275}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CAA61CD-44EA-4928-A1E4-ABE7E756C275}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CAA61CD-44EA-4928-A1E4-ABE7E756C275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D956C99-68E8-4F6D-9B5B-E5652BB40603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D956C99-68E8-4F6D-9B5B-E5652BB40603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D956C99-68E8-4F6D-9B5B-E5652BB40603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D956C99-68E8-4F6D-9B5B-E5652BB40603}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

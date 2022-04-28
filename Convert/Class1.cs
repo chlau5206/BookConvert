@@ -8,7 +8,7 @@ using System.Text;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Convertor {
+namespace BookConvert {
     class Convertion {
 
         public static string convertBig5(string line) {
