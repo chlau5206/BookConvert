@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert", "Convert\Convert.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvePub", "ConvePub\ConvePub.csproj", "{4D956C99-68E8-4F6D-9B5B-E5652BB40603}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvePubWin", "ConvePubWin\ConvePubWin.csproj", "{14FA9251-34A1-4FE9-9926-AAA365269D75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4D956C99-68E8-4F6D-9B5B-E5652BB40603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D956C99-68E8-4F6D-9B5B-E5652BB40603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D956C99-68E8-4F6D-9B5B-E5652BB40603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FA9251-34A1-4FE9-9926-AAA365269D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FA9251-34A1-4FE9-9926-AAA365269D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FA9251-34A1-4FE9-9926-AAA365269D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FA9251-34A1-4FE9-9926-AAA365269D75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
