@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Project files
+.git/
+untrack_files/
+
+
+
 # User-specific files
 *.rsuser
 *.suo
