@@ -6,8 +6,7 @@
 # Project files
 .git/
 untrack_files/
-
-
+.gitignore
 
 # User-specific files
 *.rsuser
